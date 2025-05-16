@@ -70,7 +70,11 @@ The dataset contains performance metrics for football strikers, including:
 ## 📌 Project Structure
 
 ├── Strikers_performance.xlsx # Dataset
+
 ├── Striker_Performance_Analysis.ipynb # Jupyter Notebook
+
+├── Striker_Performance_Analysis.html # Project View 
+
 ├── README.md # Project description
 
 
